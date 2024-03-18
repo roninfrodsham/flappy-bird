@@ -1,8 +1,10 @@
-# Flappy Bird JavaScript
+# Flappy Bird
 
-This is a flappy bird clone made with JavaScript to get more familiar with the canvas.
+This is a flappy bird clone was made with JavaScript to get myself more familiar with the `Canvas API` and `requestAnimationFrame`.
 
 It's a pretty simple engine and works great in JS by using `requestAnimationFrame` to call functions to update the positions of the sprites before the next paint.
+
+The trickiest part to understand was the collision detection. There is a great explanation on the subject (here)[https://www.jeffreythompson.org/collision-detection/rect-rect.php].
 
 ### Gameplay
 
